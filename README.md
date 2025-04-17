@@ -48,6 +48,6 @@ We believe in:
 
 ## 🧪 Local Setup
 
-1. Clone the repo:
+1. Clone the repo-:
    ```bash
    git clone https://github.com/mindbyteai/app
